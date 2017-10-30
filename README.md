@@ -13,7 +13,7 @@ A dark theme for [mattermost](http://www.mattermost.org/), uses colors from [oce
 * Select `Theme` then `Custom Theme` (just `Custom Theme` for older versions)
 * Paste this into the box labeled `Copy and paste to share theme colors` and click `Save`:
 
-**For mattermost v4 (tested 4.1)**
+**For mattermost v4 (tested on 4.1)**
 
 ```json
 { "sidebarBg":"#1c2124", "sidebarText":"#c0c5ce", "sidebarUnreadText":"#dfe1e8", "sidebarTextHoverBg":"#4A5664",
