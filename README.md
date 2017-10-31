@@ -16,11 +16,11 @@ A dark theme for [mattermost](http://www.mattermost.org/), uses colors from [oce
 **For mattermost v4 (tested on 4.1)**
 
 ```json
-{ "sidebarBg":"#1c2124", "sidebarText":"#c0c5ce", "sidebarUnreadText":"#dfe1e8", "sidebarTextHoverBg":"#4A5664",
+{ "sidebarBg":"#1c2124", "sidebarText":"#c0c5ce", "sidebarUnreadText":"#dfe1e8", "sidebarTextHoverBg":"#4a5664",
   "sidebarTextActiveBorder":"#99c794", "sidebarTextActiveColor":"#dfe1e8", "sidebarHeaderBg":"#1c2124",
-  "sidebarHeaderTextColor":"#c0c5ce", "onlineIndicator":"#99c794", "awayIndicator":"#FAC863", "mentionBj":"#dfe1e8",
+  "sidebarHeaderTextColor":"#c0c5ce", "onlineIndicator":"#99c794", "awayIndicator":"#fac863", "mentionBj":"#dfe1e8",
   "mentionColor":"#1b2b34", "centerChannelBg":"#1b2b34", "centerChannelColor":"#cdd3de", "newMessageSeparator":"#5de5da",
-  "linkColor":"#99c794", "buttonColor":"#dfe1e8", "buttonBg":"#1a4666", "mentionHighlightBg":"#cdd3de",
+  "linkColor":"#99c794", "buttonColor":"#dfe1e8", "buttonBg":"#1a4666", "mentionHighlightBg":"#4a5664",
   "mentionHighlightLink":"#99c794", "codeTheme":"solarized-dark" }
 ```
 
